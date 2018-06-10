@@ -1,0 +1,2 @@
+# GenerateMessage
+Default Welcome Message
